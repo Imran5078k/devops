@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM devopsedu/webapp:latest
 
 COPY website /var/www/html/
 
