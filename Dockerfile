@@ -1,4 +1,4 @@
-FROM webapp:latest
+FROM devopsedu/webapp:latest
 
 COPY website /var/www/html/
 
